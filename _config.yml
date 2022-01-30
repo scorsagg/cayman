@@ -1,7 +1,16 @@
 title: Srikanth Chakravarthy
-description: Srikanth is a Software Engineer. He is now studying "Machine Learning" and creating projects related to his studies.
-<a href="https://www.linkedin.com/in/scorsagg/">LinkedIn</a>
-<a href="https://github.com/scorsagg">GitHub</a>
+description: 
+<p align="center">
+  <a href="https://github.com/scorsagg">Resume</a> |
+  <a href="https://www.linkedin.com/in/scorsagg/">LinkedIn</a> |
+  <a href="https://github.com/scorsagg">GitHub</a>
+ 
+  <br>  
+  Srikanth is a Software Engineer. He is now studying "Machine Learning" and creating projects related to his studies.
+  <br>
+  </p>
+
+
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
