@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# **Data Science Portfolio**
+## **Data Science Portfolio**
 
-## Machine learning
+### Machine learning
 
 **Fraud Detection**
 
