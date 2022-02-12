@@ -12,7 +12,7 @@ The business problem that this study is intending to solve is to provide enough 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/scorsagg/LendingClubCaseStudy)
 
-<hr></hr>
+<hr>
 
 **Fraud Detection**
 
